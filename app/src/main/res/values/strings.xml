@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Collatz Conjecture</string>
-    <string name="button_practice">Practice App>>></string>
+    <string name="button_practice_shen">Shen  Practice App>>></string>
+    <string name="button_practice_kyle">Kyle Practice App>>></string>
     <string name="hello_world">Common Resources\n\tApp Icons\n\tColors\n\tInteger Arrays\n\tText Styling\nPersistent Data</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>

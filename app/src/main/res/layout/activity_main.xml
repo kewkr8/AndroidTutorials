@@ -18,16 +18,25 @@
         android:layout_centerVertical="true"
 
         android:text="@string/hello_world"
-        android:textSize="30dp"
+        android:textSize="30sp"
         tools:context=".MainActivity" />
 
     <Button
-        android:id="@+id/AppButton"
+        android:id="@+id/AppButtonShen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
 
-        android:text="@string/button_practice"
-        android:textSize="20dp"
+        android:text="@string/button_practice_shen"
+        android:textSize="20sp"
         android:onClick="sendMessage" />
+
+    <Button
+        android:id="@+id/AppButtonKyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/AppButtonShen"
+
+        android:text="@string/button_practice_kyle"
+        android:textSize="20sp" />
 
 </RelativeLayout>
