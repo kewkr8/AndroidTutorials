@@ -37,6 +37,7 @@
         android:layout_below="@id/AppButtonShen"
 
         android:text="@string/button_practice_kyle"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        android:textColor="@color/button"/>
 
 </RelativeLayout>
